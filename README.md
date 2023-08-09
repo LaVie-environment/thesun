@@ -1,0 +1,1 @@
+The terraform {...} block is responsible for configuring Terraform. It version-locks our code, configures where the state file is tored and where providers are downloaded.
